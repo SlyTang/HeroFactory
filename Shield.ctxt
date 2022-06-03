@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Shield
+comment1.params=
+comment1.target=java.lang.String\ getPartName()
+comment2.params=
+comment2.target=java.lang.String\ getHeroName()
+comment3.params=
+comment3.target=int\ getPrice()
+numComments=4

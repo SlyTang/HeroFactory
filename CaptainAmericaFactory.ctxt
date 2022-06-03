@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=CaptainAmericaFactory
+comment1.params=
+comment1.target=CaptainAmericaFactory()
+comment2.params=
+comment2.target=Mask\ createMask()
+comment3.params=
+comment3.target=Shield\ createShield()
+numComments=4
